@@ -1,0 +1,910 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*ef3f78ad-d8b2-4189-b7ff-82cd01ae9dc6"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537"
+        }
+      ],
+      "id": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I3*d42c8a1f-7d28-43c4-90ab-a2653e32aef8"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I2*ef3f78ad-d8b2-4189-b7ff-82cd01ae9dc6"
+        }
+      ],
+      "id": "F2*40ed0220-a174-4907-9f59-5caec0df5fee"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a"
+        },
+        {
+          "ref": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I3*d42c8a1f-7d28-43c4-90ab-a2653e32aef8"
+        }
+      ],
+      "id": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I6*e8433486-ee4c-4ee0-9568-a585abac0c27"
+        },
+        {
+          "ref": "I7*108d44e8-ef5e-4d37-8cab-66cba29f40d1"
+        },
+        {
+          "ref": "I8*02b7cdcd-8330-4bed-bda5-0b3ab569ccf9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92"
+        }
+      ],
+      "id": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I9*a76456fc-8578-40f7-bae8-99124d1c987b"
+        },
+        {
+          "ref": "I10*e33f6e5f-d0f3-44cc-9520-03d3c25eda9a"
+        },
+        {
+          "ref": "I11*b8f1dd50-7c23-47d6-b424-e7ccbfa5082b"
+        },
+        {
+          "ref": "I12*17f0c761-99c3-4074-a077-625201a3d7f2"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I8*02b7cdcd-8330-4bed-bda5-0b3ab569ccf9"
+        }
+      ],
+      "id": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I13*373d491a-bb82-4b90-91e3-614fbc4fcf08"
+        },
+        {
+          "ref": "I14*f4f9f931-9e57-4188-a88e-edd4dd9ef10c"
+        },
+        {
+          "ref": "I15*e837edad-6baf-4dba-a68e-91d241db8f28"
+        },
+        {
+          "ref": "I16*82274f49-5bae-4fad-8eed-5c5adbab8d9a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I9*a76456fc-8578-40f7-bae8-99124d1c987b"
+        }
+      ],
+      "id": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I17*ba11b2c1-d417-4af7-8d20-55f273c72fd3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I15*e837edad-6baf-4dba-a68e-91d241db8f28"
+        }
+      ],
+      "id": "F7*67cdf78e-5562-4926-9b7b-348051d4fb1e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I18*4c6d9c29-4f06-4ee4-a16d-db6c7d50ee62"
+        },
+        {
+          "ref": "I19*f0b21e8c-7107-4326-930a-d6e98f16b4ed"
+        },
+        {
+          "ref": "I20*a84a376d-6a9a-4af0-9a32-a9313542b663"
+        },
+        {
+          "ref": "I21*6ff14c2b-6e63-453b-95ca-01ae4f18b69c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I10*e33f6e5f-d0f3-44cc-9520-03d3c25eda9a"
+        }
+      ],
+      "id": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I22*d6928bae-2beb-40b5-91bd-fdbf8c871a95"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I11*b8f1dd50-7c23-47d6-b424-e7ccbfa5082b"
+        }
+      ],
+      "id": "F9*349e4124-2f77-4708-a0ca-2dfb65960cb7"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I23*10017d9c-668f-4de2-a859-321119c4fc1e"
+        },
+        {
+          "ref": "I25*a61e5160-0014-453b-bef8-abf7beba0dda"
+        },
+        {
+          "ref": "I26*ecbbf5bb-bbdf-48e7-b153-ca9910e59cfe"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I12*17f0c761-99c3-4074-a077-625201a3d7f2"
+        }
+      ],
+      "id": "F10*89de9b31-9a5f-4306-befb-d1365d2f742b"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I24*64ee63a3-807c-4f50-ab4c-f1ed089ae801"
+        }
+      ],
+      "id": "F11*44cbfa9c-7a9e-4b08-9eba-34f452fa7ae3"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I24*64ee63a3-807c-4f50-ab4c-f1ed089ae801"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I27*3a939902-5c7c-47c3-b767-c8f44244d4f3"
+        }
+      ],
+      "id": "F12*26eceb69-038a-42fe-a8bb-2ab85297d3a8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I27*3a939902-5c7c-47c3-b767-c8f44244d4f3"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I28*b8c63ef4-0701-4261-b7a3-864ea214a74c"
+        }
+      ],
+      "id": "F13*8166c8b2-2571-49a2-bb50-1fafe11aaa52"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I28*b8c63ef4-0701-4261-b7a3-864ea214a74c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I29*62f1749a-93d7-40fd-a52a-2320c9a315d1"
+        }
+      ],
+      "id": "F14*eb169685-d378-4fd0-9a0b-7a47f5b358d6"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "10:35:28",
+      "value": "11 FEB 2025"
+    },
+    "file": "4.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Indonesian",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.5 (0b354a0)"
+    }
+  },
+  "people": [
+    {
+      "famc": [
+        {
+          "ref": "F11*44cbfa9c-7a9e-4b08-9eba-34f452fa7ae3"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
+        }
+      ],
+      "id": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537",
+      "names": [
+        {
+          "value": "Am. Lombing /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F2*40ed0220-a174-4907-9f59-5caec0df5fee"
+        }
+      ],
+      "id": "I2*ef3f78ad-d8b2-4189-b7ff-82cd01ae9dc6",
+      "names": [
+        {
+          "value": "Op Laga /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*40ed0220-a174-4907-9f59-5caec0df5fee"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
+        }
+      ],
+      "id": "I3*d42c8a1f-7d28-43c4-90ab-a2653e32aef8",
+      "names": [
+        {
+          "value": "Am Laga /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
+        }
+      ],
+      "id": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a",
+      "names": [
+        {
+          "value": "Mula /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
+        }
+      ],
+      "id": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92",
+      "names": [
+        {
+          "value": "Jaiman  /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
+        }
+      ],
+      "id": "I6*e8433486-ee4c-4ee0-9568-a585abac0c27",
+      "names": [
+        {
+          "value": "Domu /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
+        }
+      ],
+      "id": "I7*108d44e8-ef5e-4d37-8cab-66cba29f40d1",
+      "names": [
+        {
+          "value": "Tio /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+        }
+      ],
+      "id": "I8*02b7cdcd-8330-4bed-bda5-0b3ab569ccf9",
+      "names": [
+        {
+          "value": "Markus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+        }
+      ],
+      "id": "I9*a76456fc-8578-40f7-bae8-99124d1c987b",
+      "names": [
+        {
+          "value": "Slamat Juvent /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+        }
+      ],
+      "id": "I10*e33f6e5f-d0f3-44cc-9520-03d3c25eda9a",
+      "names": [
+        {
+          "value": "Demak Ruvinus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F9*349e4124-2f77-4708-a0ca-2dfb65960cb7"
+        }
+      ],
+      "id": "I11*b8f1dd50-7c23-47d6-b424-e7ccbfa5082b",
+      "names": [
+        {
+          "value": "Sangap Raja /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*1268677c-2d02-4f26-8412-1686acb77516"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F10*89de9b31-9a5f-4306-befb-d1365d2f742b"
+        }
+      ],
+      "id": "I12*17f0c761-99c3-4074-a077-625201a3d7f2",
+      "names": [
+        {
+          "value": "Penggar Marinus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+        }
+      ],
+      "id": "I13*373d491a-bb82-4b90-91e3-614fbc4fcf08",
+      "names": [
+        {
+          "value": "Henry Fernando /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+        }
+      ],
+      "id": "I14*f4f9f931-9e57-4188-a88e-edd4dd9ef10c",
+      "names": [
+        {
+          "value": "Simson Hamonangan /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F7*67cdf78e-5562-4926-9b7b-348051d4fb1e"
+        }
+      ],
+      "id": "I15*e837edad-6baf-4dba-a68e-91d241db8f28",
+      "names": [
+        {
+          "value": "Donny Rotua /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2a6b9463-5325-4b48-a66a-841bd2f9d5bd"
+        }
+      ],
+      "id": "I16*82274f49-5bae-4fad-8eed-5c5adbab8d9a",
+      "names": [
+        {
+          "value": "Decky Rahmat /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*67cdf78e-5562-4926-9b7b-348051d4fb1e"
+        }
+      ],
+      "id": "I17*ba11b2c1-d417-4af7-8d20-55f273c72fd3",
+      "names": [
+        {
+          "value": "Moses Partogi /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+        }
+      ],
+      "id": "I18*4c6d9c29-4f06-4ee4-a16d-db6c7d50ee62",
+      "names": [
+        {
+          "value": "Sumber /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+        }
+      ],
+      "id": "I19*f0b21e8c-7107-4326-930a-d6e98f16b4ed",
+      "names": [
+        {
+          "value": "Putra Ultop /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+        }
+      ],
+      "id": "I20*a84a376d-6a9a-4af0-9a32-a9313542b663",
+      "names": [
+        {
+          "value": "Bima /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*bcab4025-38d3-464f-a757-df19262fcc05"
+        }
+      ],
+      "id": "I21*6ff14c2b-6e63-453b-95ca-01ae4f18b69c",
+      "names": [
+        {
+          "value": "Tommy /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*349e4124-2f77-4708-a0ca-2dfb65960cb7"
+        }
+      ],
+      "id": "I22*d6928bae-2beb-40b5-91bd-fdbf8c871a95",
+      "names": [
+        {
+          "value": "Marolop Adi /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*89de9b31-9a5f-4306-befb-d1365d2f742b"
+        }
+      ],
+      "id": "I23*10017d9c-668f-4de2-a859-321119c4fc1e",
+      "names": [
+        {
+          "value": "Rogarta /Siboro/"
+        },
+        {
+          "value": "//"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*26eceb69-038a-42fe-a8bb-2ab85297d3a8"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F11*44cbfa9c-7a9e-4b08-9eba-34f452fa7ae3"
+        }
+      ],
+      "id": "I24*64ee63a3-807c-4f50-ab4c-f1ed089ae801",
+      "names": [
+        {
+          "value": "Op Lombing /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*89de9b31-9a5f-4306-befb-d1365d2f742b"
+        }
+      ],
+      "id": "I25*a61e5160-0014-453b-bef8-abf7beba0dda",
+      "names": [
+        {
+          "value": "Nicho /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*89de9b31-9a5f-4306-befb-d1365d2f742b"
+        }
+      ],
+      "id": "I26*ecbbf5bb-bbdf-48e7-b153-ca9910e59cfe",
+      "names": [
+        {
+          "value": "Paskha /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F13*8166c8b2-2571-49a2-bb50-1fafe11aaa52"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F12*26eceb69-038a-42fe-a8bb-2ab85297d3a8"
+        }
+      ],
+      "id": "I27*3a939902-5c7c-47c3-b767-c8f44244d4f3",
+      "names": [
+        {
+          "value": "Op Lbn Pea /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F14*eb169685-d378-4fd0-9a0b-7a47f5b358d6"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F13*8166c8b2-2571-49a2-bb50-1fafe11aaa52"
+        }
+      ],
+      "id": "I28*b8c63ef4-0701-4261-b7a3-864ea214a74c",
+      "names": [
+        {
+          "value": "Am.Gottam /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F14*eb169685-d378-4fd0-9a0b-7a47f5b358d6"
+        }
+      ],
+      "id": "I29*62f1749a-93d7-40fd-a52a-2320c9a315d1",
+      "names": [
+        {
+          "value": "Op.Gottam /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
