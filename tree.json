@@ -223,6 +223,19 @@
         }
       ],
       "id": "F14*eb169685-d378-4fd0-9a0b-7a47f5b358d6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I29*62f1749a-93d7-40fd-a52a-2320c9a315d1"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I30*e4d4d0df-2d07-4ec7-9811-0d5c8429696a"
+        }
+      ],
+      "id": "F15*9d171d78-5ba7-4849-8f3c-90e8f9dc9eaf"
     }
   ],
   "head": {
@@ -888,6 +901,11 @@
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F15*9d171d78-5ba7-4849-8f3c-90e8f9dc9eaf"
+        }
+      ],
       "fams": [
         {
           "ref": "F14*eb169685-d378-4fd0-9a0b-7a47f5b358d6"
@@ -897,6 +915,25 @@
       "names": [
         {
           "value": "Op.Gottam /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F15*9d171d78-5ba7-4849-8f3c-90e8f9dc9eaf"
+        }
+      ],
+      "id": "I30*e4d4d0df-2d07-4ec7-9811-0d5c8429696a",
+      "names": [
+        {
+          "value": " /Op. Bangundongoron/"
         }
       ],
       "eventsFacts": [
