@@ -236,6 +236,19 @@
         }
       ],
       "id": "F15*9d171d78-5ba7-4849-8f3c-90e8f9dc9eaf"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I30*e4d4d0df-2d07-4ec7-9811-0d5c8429696a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I31*20fd5e58-752c-45e4-98ae-5680bacb3537"
+        }
+      ],
+      "id": "F16*cfc30b33-0688-44cd-a6ee-8829e0b15123"
     }
   ],
   "head": {
@@ -921,10 +934,20 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
     {
+      "famc": [
+        {
+          "ref": "F16*cfc30b33-0688-44cd-a6ee-8829e0b15123"
+        }
+      ],
       "fams": [
         {
           "ref": "F15*9d171d78-5ba7-4849-8f3c-90e8f9dc9eaf"
@@ -934,6 +957,30 @@
       "names": [
         {
           "value": " /Op. Bangundongoron/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F16*cfc30b33-0688-44cd-a6ee-8829e0b15123"
+        }
+      ],
+      "id": "I31*20fd5e58-752c-45e4-98ae-5680bacb3537",
+      "names": [
+        {
+          "value": " /Op.Datu Partulas Parultop./"
         }
       ],
       "eventsFacts": [
