@@ -282,6 +282,19 @@
         }
       ],
       "id": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I38*ec1cd528-7e96-41d4-98b3-f699d6363f0c"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I37*3fecce80-bb0b-4413-9a6b-f9d7daf2d550"
+        }
+      ],
+      "id": "F19*52456ab1-b2d1-481f-8112-59f978824775"
     }
   ],
   "head": {
@@ -1144,10 +1157,41 @@
           "ref": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
         }
       ],
+      "fams": [
+        {
+          "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
+        }
+      ],
       "id": "I37*3fecce80-bb0b-4413-9a6b-f9d7daf2d550",
       "names": [
         {
           "value": "Markus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
+        }
+      ],
+      "id": "I38*ec1cd528-7e96-41d4-98b3-f699d6363f0c",
+      "names": [
+        {
+          "value": "Slamat Y /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
