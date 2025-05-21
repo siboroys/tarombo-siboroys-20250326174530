@@ -1032,15 +1032,16 @@
         }
       ],
       "id": "I32*1687b369-0af0-40fa-a039-4fd517cc8b57",
-      "names": [
-        {
-          "value": "Op Pioan Sodungdangan /Siboro/"
-        }
-      ],
+      "names": [],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
