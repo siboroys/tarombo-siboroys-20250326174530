@@ -1032,15 +1032,16 @@
         }
       ],
       "id": "I32*37fdfea8-dd89-4c57-b28e-615df4a61450",
-      "names": [
-        {
-          "value": "Op Pioan Sodangdangan //"
-        }
-      ],
+      "names": [],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
