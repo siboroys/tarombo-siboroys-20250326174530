@@ -381,6 +381,8 @@
           "value": "M"
         },
         {
+          "date": "",
+          "place": "",
           "tag": "BIRT",
           "value": "Y"
         }
@@ -395,7 +397,7 @@
       "id": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a",
       "names": [
         {
-          "value": "Mula /Siboro/"
+          "value": "Am Laga Siboro /Siboro/"
         }
       ],
       "eventsFacts": [
