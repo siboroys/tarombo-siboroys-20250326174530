@@ -247,6 +247,19 @@
         }
       ],
       "id": "F16*cfc30b33-0688-44cd-a6ee-8829e0b15123"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I33*82b276a8-6f81-4602-b701-cae98d718020"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a"
+        }
+      ],
+      "id": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
     }
   ],
   "head": {
@@ -387,6 +400,11 @@
           "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
         }
       ],
+      "fams": [
+        {
+          "ref": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
+        }
+      ],
       "id": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a",
       "names": [
         {
@@ -399,6 +417,8 @@
           "value": "M"
         },
         {
+          "date": "",
+          "place": "",
           "tag": "BIRT",
           "value": "Y"
         }
@@ -1002,6 +1022,25 @@
       "names": [
         {
           "value": "Op Pioan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
+        }
+      ],
+      "id": "I33*82b276a8-6f81-4602-b701-cae98d718020",
+      "names": [
+        {
+          "value": "Mula Siboro /Siboro/"
         }
       ],
       "eventsFacts": [
