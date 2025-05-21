@@ -347,6 +347,9 @@
         },
         {
           "ref": "I48*2138b732-0977-4be9-88ae-dce6e48869fa"
+        },
+        {
+          "ref": "I49*25205ff4-1b7a-47a3-82ae-2518906c67bb"
         }
       ],
       "husbandRefs": [
@@ -1281,6 +1284,11 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -1451,6 +1459,25 @@
       "names": [
         {
           "value": "Ultop Putra /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
+        }
+      ],
+      "id": "I49*25205ff4-1b7a-47a3-82ae-2518906c67bb",
+      "names": [
+        {
+          "value": "Tommy /Siboro/"
         }
       ],
       "eventsFacts": [
