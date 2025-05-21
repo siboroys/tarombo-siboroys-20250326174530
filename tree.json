@@ -292,6 +292,9 @@
       "names": [
         {
           "value": "Am. Lombing /Siboro/"
+        },
+        {
+          "value": "Op Pio Sodungdongan //"
         }
       ],
       "eventsFacts": [
@@ -327,6 +330,17 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ],
+      "notes": [
+        {
+          "sourceCitationsUnderValue": false,
+          "value": ""
         }
       ]
     },
