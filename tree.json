@@ -9,9 +9,6 @@
       "husbandRefs": [
         {
           "ref": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537"
-        },
-        {
-          "ref": "I33*df73762e-4b45-4d63-9be6-ca0c9a77fe4c"
         }
       ],
       "id": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa",
@@ -1027,25 +1024,6 @@
     },
     {
       "id": "I32*ce7623f4-659c-422f-8e46-bdc76c7b34ab",
-      "names": [
-        {
-          "value": "Op Pioan //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
-        }
-      ],
-      "id": "I33*df73762e-4b45-4d63-9be6-ca0c9a77fe4c",
       "names": [
         {
           "value": "Op Pioan //"
