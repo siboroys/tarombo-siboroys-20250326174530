@@ -312,6 +312,9 @@
         },
         {
           "ref": "I43*589d511d-a58d-4165-845c-c1e9c31dcfd2"
+        },
+        {
+          "ref": "I44*9e2de776-4f08-4757-90f4-a511ae00d1f7"
         }
       ],
       "husbandRefs": [
@@ -1311,6 +1314,25 @@
       "names": [
         {
           "value": "Simson /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+        }
+      ],
+      "id": "I44*9e2de776-4f08-4757-90f4-a511ae00d1f7",
+      "names": [
+        {
+          "value": "Donny Rotua /Siboro/"
         }
       ],
       "eventsFacts": [
