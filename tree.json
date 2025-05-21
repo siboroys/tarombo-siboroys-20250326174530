@@ -345,6 +345,11 @@
           "tag": "BIRT"
         }
       ],
+      "sourceCitations": [
+        {
+          "ref": "S3*ccc68879-4363-4cbf-8bfa-c743408c6205"
+        }
+      ],
       "notes": [
         {
           "sourceCitationsUnderValue": false,
@@ -1056,6 +1061,10 @@
       "extensions": {
         "citaz": 1
       }
+    },
+    {
+      "id": "S3*ccc68879-4363-4cbf-8bfa-c743408c6205",
+      "titl": ""
     }
   ]
 }
