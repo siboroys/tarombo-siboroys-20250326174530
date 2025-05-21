@@ -35,9 +35,6 @@
       "childRefs": [
         {
           "ref": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a"
-        },
-        {
-          "ref": "I34*63a74305-be51-423e-a920-7003815861aa"
         }
       ],
       "husbandRefs": [
@@ -1044,25 +1041,6 @@
       "names": [
         {
           "value": "Mula Siboro /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
-        }
-      ],
-      "id": "I34*63a74305-be51-423e-a920-7003815861aa",
-      "names": [
-        {
-          "value": "Jaiman Siboro /Siboro/"
         }
       ],
       "eventsFacts": [
