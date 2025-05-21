@@ -176,9 +176,6 @@
       "childRefs": [
         {
           "ref": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537"
-        },
-        {
-          "ref": "I32*c66e0e30-05af-44be-907c-b73cc7e9346b"
         }
       ],
       "husbandRefs": [
@@ -984,25 +981,6 @@
       "names": [
         {
           "value": " /Op.Datu Partulas Parultop./"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F11*44cbfa9c-7a9e-4b08-9eba-34f452fa7ae3"
-        }
-      ],
-      "id": "I32*c66e0e30-05af-44be-907c-b73cc7e9346b",
-      "names": [
-        {
-          "value": "Op Sadangdangan /Siboro/"
         }
       ],
       "eventsFacts": [
