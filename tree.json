@@ -308,6 +308,12 @@
       "sourceCitations": [
         {
           "ref": "S1*30c7cf70-f7c2-47bd-a6db-79f3432078c2"
+        },
+        {
+          "value": ""
+        },
+        {
+          "ref": "S2*c79590dc-ebed-43e1-8ee8-09699de58eb7"
         }
       ]
     },
@@ -1020,6 +1026,13 @@
   "sources": [
     {
       "id": "S1*30c7cf70-f7c2-47bd-a6db-79f3432078c2",
+      "titl": "",
+      "extensions": {
+        "citaz": 1
+      }
+    },
+    {
+      "id": "S2*c79590dc-ebed-43e1-8ee8-09699de58eb7",
       "titl": ""
     }
   ]
