@@ -309,6 +309,9 @@
       "childRefs": [
         {
           "ref": "I42*0bffbf10-702c-42be-9c1d-285fe3047096"
+        },
+        {
+          "ref": "I43*589d511d-a58d-4165-845c-c1e9c31dcfd2"
         }
       ],
       "husbandRefs": [
@@ -1289,6 +1292,25 @@
       "names": [
         {
           "value": "Henry /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+        }
+      ],
+      "id": "I43*589d511d-a58d-4165-845c-c1e9c31dcfd2",
+      "names": [
+        {
+          "value": "Simson /Siboro/"
         }
       ],
       "eventsFacts": [
