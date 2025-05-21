@@ -287,6 +287,9 @@
       "childRefs": [
         {
           "ref": "I38*ec1cd528-7e96-41d4-98b3-f699d6363f0c"
+        },
+        {
+          "ref": "I39*2f0f8b5b-57ea-40f5-89b5-621f983386e6"
         }
       ],
       "husbandRefs": [
@@ -1186,6 +1189,25 @@
       "names": [
         {
           "value": "Slamat Y /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
+        }
+      ],
+      "id": "I39*2f0f8b5b-57ea-40f5-89b5-621f983386e6",
+      "names": [
+        {
+          "value": "Demak /Siboro/"
         }
       ],
       "eventsFacts": [
