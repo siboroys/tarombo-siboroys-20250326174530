@@ -315,6 +315,9 @@
         },
         {
           "ref": "I44*9e2de776-4f08-4757-90f4-a511ae00d1f7"
+        },
+        {
+          "ref": "I45*23e669de-5447-44cf-a71a-c714b4927505"
         }
       ],
       "husbandRefs": [
@@ -1333,6 +1336,25 @@
       "names": [
         {
           "value": "Donny Rotua /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+        }
+      ],
+      "id": "I45*23e669de-5447-44cf-a71a-c714b4927505",
+      "names": [
+        {
+          "value": "Decky Rahmat /Siboro/"
         }
       ],
       "eventsFacts": [
