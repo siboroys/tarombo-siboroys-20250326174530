@@ -260,6 +260,9 @@
       "husbandRefs": [
         {
           "ref": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a"
+        },
+        {
+          "ref": "I35*d04214ec-f15d-4077-9c01-32abe8d0dd71"
         }
       ],
       "id": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
@@ -1074,6 +1077,24 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
+        }
+      ],
+      "id": "I35*d04214ec-f15d-4077-9c01-32abe8d0dd71",
+      "names": [
+        {
+          "value": "Domu /Siboro/"
         }
       ]
     }
