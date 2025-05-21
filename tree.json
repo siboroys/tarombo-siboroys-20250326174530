@@ -911,13 +911,18 @@
       "id": "I27*3a939902-5c7c-47c3-b767-c8f44244d4f3",
       "names": [
         {
-          "value": "Op Lbn Pea /Siboro/"
+          "value": "Op Siraja Lbn Pea /Siboro/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
