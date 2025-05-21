@@ -331,7 +331,7 @@
       "id": "I2*ef3f78ad-d8b2-4189-b7ff-82cd01ae9dc6",
       "names": [
         {
-          "value": "Op Laga /Siboro/"
+          "value": "Op Sodungdangan /Siboro/"
         }
       ],
       "eventsFacts": [
@@ -340,9 +340,8 @@
           "value": "M"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "BIRT",
+          "value": "Y"
         }
       ],
       "sourceCitations": [
@@ -1064,7 +1063,10 @@
     },
     {
       "id": "S3*ccc68879-4363-4cbf-8bfa-c743408c6205",
-      "titl": ""
+      "titl": "",
+      "extensions": {
+        "citaz": 1
+      }
     }
   ]
 }
