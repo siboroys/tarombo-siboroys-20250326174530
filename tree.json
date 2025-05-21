@@ -290,6 +290,9 @@
         },
         {
           "ref": "I39*2f0f8b5b-57ea-40f5-89b5-621f983386e6"
+        },
+        {
+          "ref": "I40*e53ce555-f2d4-468b-a887-3bf0f211bbf1"
         }
       ],
       "husbandRefs": [
@@ -1208,6 +1211,25 @@
       "names": [
         {
           "value": "Demak /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
+        }
+      ],
+      "id": "I40*e53ce555-f2d4-468b-a887-3bf0f211bbf1",
+      "names": [
+        {
+          "value": "Sangap /Siboro/"
         }
       ],
       "eventsFacts": [
