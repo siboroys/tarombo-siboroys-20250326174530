@@ -268,6 +268,9 @@
       "childRefs": [
         {
           "ref": "I35*32c5d228-18f3-4962-b923-422bb2d3cbe7"
+        },
+        {
+          "ref": "I36*cd599563-b020-4d5c-ac32-530d4f044243"
         }
       ],
       "husbandRefs": [
@@ -1110,6 +1113,25 @@
       "names": [
         {
           "value": "Domu /Siboro/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
+        }
+      ],
+      "id": "I36*cd599563-b020-4d5c-ac32-530d4f044243",
+      "names": [
+        {
+          "value": "Tio /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
