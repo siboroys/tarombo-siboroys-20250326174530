@@ -4,9 +4,6 @@
       "childRefs": [
         {
           "ref": "I2*ef3f78ad-d8b2-4189-b7ff-82cd01ae9dc6"
-        },
-        {
-          "ref": "I32*1687b369-0af0-40fa-a039-4fd517cc8b57"
         }
       ],
       "husbandRefs": [
@@ -1022,26 +1019,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
-        }
-      ],
-      "id": "I32*1687b369-0af0-40fa-a039-4fd517cc8b57",
-      "names": [],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
         }
       ]
     }
