@@ -382,6 +382,9 @@
         },
         {
           "ref": "I53*fcd6f48a-2298-4ba2-ac96-3717649587a3"
+        },
+        {
+          "ref": "I54*00b95113-653c-4375-a7e0-0f79d4f5ff2b"
         }
       ],
       "husbandRefs": [
@@ -1596,6 +1599,25 @@
       "names": [
         {
           "value": "Nikolaus /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F24*72cdcd7c-0a32-4acf-9463-122215aff479"
+        }
+      ],
+      "id": "I54*00b95113-653c-4375-a7e0-0f79d4f5ff2b",
+      "names": [
+        {
+          "value": "Paskalis /Siboro/"
         }
       ],
       "eventsFacts": [
