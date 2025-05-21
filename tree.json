@@ -361,6 +361,19 @@
         }
       ],
       "id": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I51*4ae728f5-8eb2-49a6-b4ad-133eb72971be"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I40*e53ce555-f2d4-468b-a887-3bf0f211bbf1"
+        }
+      ],
+      "id": "F23*31bff0bb-fb6f-45ab-b78f-b42bf23f65a6"
     }
   ],
   "head": {
@@ -1301,6 +1314,11 @@
           "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
         }
       ],
+      "fams": [
+        {
+          "ref": "F23*31bff0bb-fb6f-45ab-b78f-b42bf23f65a6"
+        }
+      ],
       "id": "I40*e53ce555-f2d4-468b-a887-3bf0f211bbf1",
       "names": [
         {
@@ -1500,6 +1518,25 @@
       "names": [
         {
           "value": "Bima  /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*31bff0bb-fb6f-45ab-b78f-b42bf23f65a6"
+        }
+      ],
+      "id": "I51*4ae728f5-8eb2-49a6-b4ad-133eb72971be",
+      "names": [
+        {
+          "value": "Marolop Adhi /Siboro/"
         }
       ],
       "eventsFacts": [
