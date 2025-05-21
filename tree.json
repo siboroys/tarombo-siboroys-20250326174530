@@ -304,6 +304,11 @@
           "place": "",
           "tag": "BIRT"
         }
+      ],
+      "sourceCitations": [
+        {
+          "ref": "S1*30c7cf70-f7c2-47bd-a6db-79f3432078c2"
+        }
       ]
     },
     {
@@ -362,6 +367,11 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -1005,6 +1015,12 @@
           "value": "M"
         }
       ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1*30c7cf70-f7c2-47bd-a6db-79f3432078c2",
+      "titl": ""
     }
   ]
 }
