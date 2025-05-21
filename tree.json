@@ -339,6 +339,19 @@
         }
       ],
       "id": "F21*0a89268a-31c7-4c51-88fb-05fbc4fe3818"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I47*f58c1b9b-e1af-4cb2-accf-21c467397cf0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I39*2f0f8b5b-57ea-40f5-89b5-621f983386e6"
+        }
+      ],
+      "id": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
     }
   ],
   "head": {
@@ -1250,6 +1263,11 @@
           "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
         }
       ],
+      "fams": [
+        {
+          "ref": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
+        }
+      ],
       "id": "I39*2f0f8b5b-57ea-40f5-89b5-621f983386e6",
       "names": [
         {
@@ -1392,6 +1410,25 @@
       "names": [
         {
           "value": "Moses /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
+        }
+      ],
+      "id": "I47*f58c1b9b-e1af-4cb2-accf-21c467397cf0",
+      "names": [
+        {
+          "value": "Sumber /Siboro/"
         }
       ],
       "eventsFacts": [
