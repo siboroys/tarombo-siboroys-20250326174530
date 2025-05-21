@@ -304,6 +304,19 @@
         }
       ],
       "id": "F19*52456ab1-b2d1-481f-8112-59f978824775"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I42*0bffbf10-702c-42be-9c1d-285fe3047096"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I38*ec1cd528-7e96-41d4-98b3-f699d6363f0c"
+        }
+      ],
+      "id": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
     }
   ],
   "head": {
@@ -1191,6 +1204,11 @@
           "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
         }
       ],
+      "fams": [
+        {
+          "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+        }
+      ],
       "id": "I38*ec1cd528-7e96-41d4-98b3-f699d6363f0c",
       "names": [
         {
@@ -1252,6 +1270,25 @@
       "names": [
         {
           "value": "Penggar /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+        }
+      ],
+      "id": "I42*0bffbf10-702c-42be-9c1d-285fe3047096",
+      "names": [
+        {
+          "value": "Henry /Siboro/"
         }
       ],
       "eventsFacts": [
