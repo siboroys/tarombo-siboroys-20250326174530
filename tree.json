@@ -326,6 +326,19 @@
         }
       ],
       "id": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I46*ed59eea9-9b51-4af2-98af-ddd07f5d9bc9"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I44*9e2de776-4f08-4757-90f4-a511ae00d1f7"
+        }
+      ],
+      "id": "F21*0a89268a-31c7-4c51-88fb-05fbc4fe3818"
     }
   ],
   "head": {
@@ -1332,6 +1345,11 @@
           "ref": "F20*feb2aeb6-67a6-400f-b6c4-a1a38dc95f0d"
         }
       ],
+      "fams": [
+        {
+          "ref": "F21*0a89268a-31c7-4c51-88fb-05fbc4fe3818"
+        }
+      ],
       "id": "I44*9e2de776-4f08-4757-90f4-a511ae00d1f7",
       "names": [
         {
@@ -1355,6 +1373,25 @@
       "names": [
         {
           "value": "Decky Rahmat /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F21*0a89268a-31c7-4c51-88fb-05fbc4fe3818"
+        }
+      ],
+      "id": "I46*ed59eea9-9b51-4af2-98af-ddd07f5d9bc9",
+      "names": [
+        {
+          "value": "Moses /Siboro/"
         }
       ],
       "eventsFacts": [
