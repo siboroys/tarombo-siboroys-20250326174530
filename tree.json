@@ -374,6 +374,19 @@
         }
       ],
       "id": "F23*31bff0bb-fb6f-45ab-b78f-b42bf23f65a6"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I52*024e7e23-5a6c-4d73-ac56-476aa3bd83c4"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I41*313548bb-5636-46fb-8293-b535195f2190"
+        }
+      ],
+      "id": "F24*72cdcd7c-0a32-4acf-9463-122215aff479"
     }
   ],
   "head": {
@@ -1338,6 +1351,11 @@
           "ref": "F19*52456ab1-b2d1-481f-8112-59f978824775"
         }
       ],
+      "fams": [
+        {
+          "ref": "F24*72cdcd7c-0a32-4acf-9463-122215aff479"
+        }
+      ],
       "id": "I41*313548bb-5636-46fb-8293-b535195f2190",
       "names": [
         {
@@ -1537,6 +1555,25 @@
       "names": [
         {
           "value": "Marolop Adhi /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F24*72cdcd7c-0a32-4acf-9463-122215aff479"
+        }
+      ],
+      "id": "I52*024e7e23-5a6c-4d73-ac56-476aa3bd83c4",
+      "names": [
+        {
+          "value": "Rogartha /Siboro/"
         }
       ],
       "eventsFacts": [
