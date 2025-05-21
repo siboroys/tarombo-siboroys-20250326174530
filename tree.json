@@ -340,6 +340,8 @@
           "value": "M"
         },
         {
+          "date": "",
+          "place": "",
           "tag": "BIRT",
           "value": "Y"
         }
@@ -370,7 +372,7 @@
       "id": "I3*d42c8a1f-7d28-43c4-90ab-a2653e32aef8",
       "names": [
         {
-          "value": "Am Laga /Siboro/"
+          "value": "Op Laga /Siboro/"
         }
       ],
       "eventsFacts": [
@@ -379,9 +381,8 @@
           "value": "M"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "BIRT",
+          "value": "Y"
         }
       ]
     },
