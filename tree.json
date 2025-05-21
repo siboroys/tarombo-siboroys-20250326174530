@@ -379,6 +379,9 @@
       "childRefs": [
         {
           "ref": "I52*024e7e23-5a6c-4d73-ac56-476aa3bd83c4"
+        },
+        {
+          "ref": "I53*fcd6f48a-2298-4ba2-ac96-3717649587a3"
         }
       ],
       "husbandRefs": [
@@ -1574,6 +1577,25 @@
       "names": [
         {
           "value": "Rogartha /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F24*72cdcd7c-0a32-4acf-9463-122215aff479"
+        }
+      ],
+      "id": "I53*fcd6f48a-2298-4ba2-ac96-3717649587a3",
+      "names": [
+        {
+          "value": "Nikolaus /Siboro/"
         }
       ],
       "eventsFacts": [
