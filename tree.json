@@ -9,9 +9,6 @@
       "husbandRefs": [
         {
           "ref": "I1*c178844d-c03d-4938-9f47-ec86d7fe8537"
-        },
-        {
-          "ref": "I32*37fdfea8-dd89-4c57-b28e-615df4a61450"
         }
       ],
       "id": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa",
@@ -1022,26 +1019,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F1*c23528ac-6295-4b60-ad49-53229e65b2fa"
-        }
-      ],
-      "id": "I32*37fdfea8-dd89-4c57-b28e-615df4a61450",
-      "names": [],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
         }
       ]
     }
