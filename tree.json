@@ -425,7 +425,7 @@
       "id": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92",
       "names": [
         {
-          "value": "Jaiman  /Siboro/"
+          "value": "Jaiman /Siboro/"
         }
       ],
       "eventsFacts": [
@@ -434,9 +434,8 @@
           "value": "M"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "BIRT",
+          "value": "Y"
         }
       ]
     },
