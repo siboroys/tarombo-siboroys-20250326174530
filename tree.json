@@ -406,9 +406,8 @@
           "value": "M"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "BIRT",
+          "value": "Y"
         }
       ]
     },
