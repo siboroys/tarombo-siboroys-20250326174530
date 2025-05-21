@@ -263,6 +263,19 @@
         }
       ],
       "id": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I35*32c5d228-18f3-4962-b923-422bb2d3cbe7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I34*429034ec-8d48-4af0-9bca-884648272855"
+        }
+      ],
+      "id": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
     }
   ],
   "head": {
@@ -1064,6 +1077,11 @@
           "ref": "F17*d49b09f4-5c75-43fa-8d4a-77260743a2d2"
         }
       ],
+      "fams": [
+        {
+          "ref": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
+        }
+      ],
       "id": "I34*429034ec-8d48-4af0-9bca-884648272855",
       "names": [
         {
@@ -1079,6 +1097,19 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F18*7abc74f5-ddb5-4fd6-83a1-fe6db3a8152e"
+        }
+      ],
+      "id": "I35*32c5d228-18f3-4962-b923-422bb2d3cbe7",
+      "names": [
+        {
+          "value": "Domu /Siboro/"
         }
       ]
     }
