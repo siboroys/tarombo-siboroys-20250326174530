@@ -1043,13 +1043,18 @@
       "id": "I33*82b276a8-6f81-4602-b701-cae98d718020",
       "names": [
         {
-          "value": "Mula Siboro /Siboro/"
+          "value": "Mulatua /Siboro/"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
