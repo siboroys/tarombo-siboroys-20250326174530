@@ -35,9 +35,6 @@
       "childRefs": [
         {
           "ref": "I4*4bea7497-ee02-4c25-9624-b84d18ebbe9a"
-        },
-        {
-          "ref": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92"
         }
       ],
       "husbandRefs": [
@@ -59,11 +56,7 @@
           "ref": "I8*02b7cdcd-8330-4bed-bda5-0b3ab569ccf9"
         }
       ],
-      "husbandRefs": [
-        {
-          "ref": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
     },
     {
@@ -406,34 +399,8 @@
           "value": "M"
         },
         {
-          "tag": "BIRT",
-          "value": "Y"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F3*f127813a-e0cb-42be-9f07-59e326bc1670"
-        }
-      ],
-      "fams": [
-        {
-          "ref": "F4*5afe2742-f8a6-4400-923d-de79e58dcd96"
-        }
-      ],
-      "id": "I5*47055703-5b7d-42a7-bc73-1bb70e898f92",
-      "names": [
-        {
-          "value": "Jaiman /Siboro/"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
+          "date": "",
+          "place": "",
           "tag": "BIRT",
           "value": "Y"
         }
