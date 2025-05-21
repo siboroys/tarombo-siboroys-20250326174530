@@ -344,6 +344,9 @@
       "childRefs": [
         {
           "ref": "I47*f58c1b9b-e1af-4cb2-accf-21c467397cf0"
+        },
+        {
+          "ref": "I48*2138b732-0977-4be9-88ae-dce6e48869fa"
         }
       ],
       "husbandRefs": [
@@ -1429,6 +1432,25 @@
       "names": [
         {
           "value": "Sumber /Siboro/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*30929ce6-aef1-4323-bb99-1b0be6a22cfd"
+        }
+      ],
+      "id": "I48*2138b732-0977-4be9-88ae-dce6e48869fa",
+      "names": [
+        {
+          "value": "Ultop Putra /Siboro/"
         }
       ],
       "eventsFacts": [
